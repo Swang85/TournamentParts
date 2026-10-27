@@ -1,0 +1,10 @@
+name = "TournamentParts"
+version = "0.1.0"
+defaultTargets = ["TournamentParts"]
+
+[[require]]
+name = "mathlib"
+path = "../mathlib4"
+
+[[lean_lib]]
+name = "TournamentParts"
